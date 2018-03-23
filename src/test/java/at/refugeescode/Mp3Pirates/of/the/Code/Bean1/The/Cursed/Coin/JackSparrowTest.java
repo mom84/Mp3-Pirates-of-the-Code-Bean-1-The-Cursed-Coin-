@@ -1,6 +1,7 @@
 package at.refugeescode.Mp3Pirates.of.the.Code.Bean1.The.Cursed.Coin;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

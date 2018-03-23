@@ -13,7 +13,9 @@ public class JackSparrow {
     }
 
     public String findCoin(){
-        return compass.findCoin();
+
+        String coin = compass.findCoin();
+        return coin;
     }
 
 }

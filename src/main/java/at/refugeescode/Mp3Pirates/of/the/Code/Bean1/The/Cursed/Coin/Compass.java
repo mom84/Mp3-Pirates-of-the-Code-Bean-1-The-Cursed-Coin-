@@ -7,6 +7,7 @@ public class Compass {
 
     private CursedCoin cursedCoin;
 
+
     public Compass(CursedCoin cursedCoin){
         this.cursedCoin=cursedCoin;
     }
